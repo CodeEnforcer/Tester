@@ -1,4 +1,4 @@
-package com.johnpaul;
+package com.jp;
 
 /**
  * Hello world!
